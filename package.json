@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "quagga": "^0.6.16",
+    "react-webcam": "^7.1.1"
+  }
+}
